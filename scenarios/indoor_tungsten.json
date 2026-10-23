@@ -1,0 +1,1 @@
+{    "scenario_id": "indoor_tungsten",    "log_path": "logs/run_indoor_tungsten.csv",    "awb_mode": 3,    "sharpness": 1.3,    "contrast": 1.1,    "duration": 20.0,    "mode": "test"}

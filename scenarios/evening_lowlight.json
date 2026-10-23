@@ -1,0 +1,8 @@
+{
+    "scenario_id": "evening_lowlight",
+    "log_path": "logs/run_evening_lowlight.csv",
+    "awb_mode": 0,
+    "sharpness": 1.4,
+    "contrast": 1.2,
+    "duration": 20.0
+}

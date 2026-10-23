@@ -1,0 +1,8 @@
+{
+    "scenario_id": "outdoor_daylight",
+    "log_path": "logs/run_outdoor_daylight.csv",
+    "awb_mode": 4,
+    "sharpness": 1.2,
+    "contrast": 1.0,
+    "duration": 20.0
+}

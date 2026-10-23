@@ -1,0 +1,4 @@
+timestamp,scenario,face_names,face_confidences,object_detected,object_confidence,detection_quality
+0.0,test,Tirthrajh,0.726,,0.0,ok
+2.219,test,,,,0.0,no_detection
+3.921,test,Tirthrajh,0.815,,0.0,ok

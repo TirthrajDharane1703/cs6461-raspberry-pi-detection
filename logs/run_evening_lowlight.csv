@@ -1,0 +1,11 @@
+timestamp,scenario,face_names,face_confidences,object_detected,object_confidence,detection_quality
+0.0,evening_lowlight,Tirthrajh,0.852,,0.0,ok
+2.682,evening_lowlight,Tirthraj,0.618,,0.0,ok
+4.89,evening_lowlight,Tirthrajh,0.859,,0.0,ok
+7.122,evening_lowlight,,,,0.0,no_detection
+8.896,evening_lowlight,,,,0.0,no_detection
+10.626,evening_lowlight,,,,0.0,no_detection
+12.341,evening_lowlight,Tirthrajh,0.782,,0.0,ok
+14.529,evening_lowlight,Tirthrajh,0.892,,0.0,ok
+16.703,evening_lowlight,Tirthrajh,0.737,,0.0,ok
+18.883,evening_lowlight,Tirthrajh,0.801,,0.0,ok

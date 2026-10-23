@@ -1,0 +1,9 @@
+opencv-python
+opencv-contrib-python
+numpy
+picamera2
+face-recognition
+imutils
+matplotlib
+pandas
+pyyaml
